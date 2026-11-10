@@ -1,6 +1,8 @@
-# Roll-a-Ball Game – Assignment 1
+# Roll-a-Ball Game
 
 A 3D game developed using **Unity 6.3 LTS, C#, and URP**, based on the Unity Learn tutorial and extended with custom textures, a rim-glow shader, enemy AI, and interactive menus.
+
+![Roll-a-Ball game screenshot](Rollaball.png)
 
 ### Features
 - Physics-based ball movement and 12 collectible items
